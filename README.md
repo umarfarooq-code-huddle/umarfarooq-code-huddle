@@ -75,8 +75,21 @@
 <img align="right" src="https://img.shields.io/badge/React-239120?logo=react&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Graph QL-CC2927?logo=graphQL&logoColor=white" />
   
+- 👨‍💻 **Junior Software Engineer**\
+📆 July 2023 - moment\
+📍 **Code-Huddle** - Islamabad
+  
+  
+<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=Python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-239120?logo=react&logoColor=white" />
+  
+
+<img align="right" src="https://img.shields.io/badge/Python-3498DB?logo=Python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-239120?logo=react&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Graph QL-CC2927?logo=graphQL&logoColor=white" />
+  
 - 👨‍💻 **Research Intern**\
-📆 2022 - moment\
+📆 2022 - 2023\
 📍 **IKNEX Lab, FAST - NUCES** - Islamabad
   
   
