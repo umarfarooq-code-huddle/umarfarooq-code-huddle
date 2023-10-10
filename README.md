@@ -32,7 +32,7 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://readme-stats-git-main-umarfarooq-code-huddle.vercel.app/api/top-langs/?username=umarfarooq-code-huddle&layout=compact" width="350"></a>
+  <a href="#"><img src="https://readme-stats-git-main-umarfarooq-code-huddle.vercel.app/api/top-langs/?username=umarfarooq-code-huddle" width="350"></a>
 </p>
 
 
