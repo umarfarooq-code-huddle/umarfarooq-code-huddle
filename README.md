@@ -27,7 +27,7 @@
 
 
 <p align='center'>
-  <a href="#"><img src="https://readme-stats-git-main-umarfarooq-code-huddle.vercel.app/api?username=umarfarooq-code-huddle&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="350"></a>
+  <a href="#"><img src="https://readme-stats-git-main-umarfarooq-code-huddle.vercel.app/api?username=umarfarooq-code-huddle&show=reviews,prs_merged,prs_merged_percentage&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="350"></a>
 </p>
 
 <p align='center'>
